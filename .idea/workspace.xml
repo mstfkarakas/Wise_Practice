@@ -1,23 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08c40c53-7eb4-4a09-8721-1b5f82b4a57d" name="Changes" comment="" />
+    <list default="true" id="08c40c53-7eb4-4a09-8721-1b5f82b4a57d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C10_Scanner6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C02_Explicit_Narrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C03_DataCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C04_CharDataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C05_WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01_prg_giris/C01_Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01_prg_giris/C01_Hello_World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_01_prg_giris/C02_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01_prg_giris/C02_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C01_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C01_Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C02_Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C02_Data_Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C03_Non_Primitive_DT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C03_Non_Primitive_DT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C04_NamingConvention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C05_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C05_Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C06_Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C06_Scanner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C07_Scanner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C07_Scanner3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C08_Scanner4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C08_Scanner4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C09_Scanner5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C09_Scanner5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2JgSUb7wQvTo3nlDLc417ci0zhh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.C05_WrapperClass">
+    <configuration name="C01_DataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C01_DataCasting" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Explicit_Narrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C02_Explicit_Narrowing" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DataCasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C03_DataCasting2" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C04_CharDataCasting" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C05_WrapperClass" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C05_WrapperClass" />
+        <item itemvalue="Application.C04_CharDataCasting" />
+        <item itemvalue="Application.C03_DataCasting2" />
+        <item itemvalue="Application.C02_Explicit_Narrowing" />
+        <item itemvalue="Application.C01_DataCasting" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,5 +144,16 @@
       <updated>1672498253059</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
