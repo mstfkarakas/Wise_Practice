@@ -10,15 +10,15 @@ public class C04_CharDataCasting {
 
         System.out.println('a' - 32); // Prints 65 since a's ASSCI value is 97 and 97-32 is 65.
 
-     // In ASSCI, difference btw a capital letter and a lowercase is 32, e.g. A and a.
+     // In ASSCI, difference btw a capital letter and a lowercase is always 32, e.g. A and a.
         System.out.println((char)('a' - 32)); //casting is added, so the output is- the ASSCI letter corresponding to 65 which is A.
 
 
 
-     // EXERCISE. Take a char from the user. Print the 3 characters after the one the user enters.
+     // EXERCISE. Take a char from the user. Print the 3 characters after user's choice.
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a character: ");
-        char input_character = scan.next().charAt(0);  //scan.next() takes the first word only. 0th index is the first character.
+        char input_character = scan.next().charAt(0);  //scan.next() takes the first word only. Then 0th index is the first character.
 
         System.out.println((char)(input_character + 1) +", " + (char)(input_character + 2) + ", " + (char)(input_character + 3));
 

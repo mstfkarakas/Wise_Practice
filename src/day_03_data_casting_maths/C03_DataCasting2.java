@@ -22,7 +22,7 @@ public class C03_DataCasting2 {
         int num_2 = scan.nextInt();
         double quotient = (double) num_1/num_2;  // we HAD to cast the data here. Otherwise, the answer is an integer.
         System.out.println("The answer is: " + quotient);
-        // We can print without the quotient variable.
+    //  We can print without the quotient variable.
         System.out.println("The answer is: " + (double)num_1/num_2); // Second solution. One of the numbers should be cast to double. That's it.
 
     }

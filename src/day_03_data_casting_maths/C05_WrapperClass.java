@@ -1,5 +1,7 @@
 package day_03_data_casting_maths;
 
+import java.util.Scanner;
+
 public class C05_WrapperClass {
     public static void main(String[] args) {
 
@@ -39,5 +41,39 @@ public class C05_WrapperClass {
         System.out.println(Character.isAlphabetic(inp));
         System.out.println(Character.isLetterOrDigit(inp));
 
-    }
+        short num1 = 3;
+        int num2 = num1;
+
+    //  However. No CASTING in WRAPPER CLASSES.
+        Short num3 = 45;
+    //  Integer num4 = (Integer)num3;     This doesn't work.
+
+
+    /* EXERCISES
+        Soru 1- Int olarak verilen 3 degerin ortalamasini double olarak yazdiran bir kod yazin
+
+        Soru 2- Kullanicidan bir harf alin ve alfabede o harften sonraki 3 harfi yazdirin.
+
+        Soru 3- Kullanicidan bir sayi alin, kullanici kac degerini girerse girsin, o sayiyi -128 ile 127
+        arasindaki bir sayiya donusturup yazdirin.
+
+        Soru 4- Kullanicidan iki double sayi alin, ilk sayiyi ikinci sayiya bolun ve bolum isleminin
+        sonucununun tamsayi kismini yazdirin.
+
+        Soru 5- Kullanicidan bir double, bir tamsayi alin, double sayiyi ikinci sayiya bolun ve bolum
+        isleminin sonucununun tamsayi kismini yazdirin.
+    */
+    //  Soru 5:
+
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a decimal number: ");
+        double dec_num = scan.nextDouble();
+        System.out.println("Enter a whole number: ");
+        int whole_num = scan.nextInt();
+
+        int quotient = (int)(dec_num/whole_num);
+        System.out.println(quotient);
+
+
+        }
 }

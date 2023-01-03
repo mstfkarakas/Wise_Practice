@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08c40c53-7eb4-4a09-8721-1b5f82b4a57d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C10_Scanner6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C02_Explicit_Narrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C03_DataCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C04_CharDataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C05_WrapperClass.java" afterDir="false" />
+    <list default="true" id="08c40c53-7eb4-4a09-8721-1b5f82b4a57d" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C06_Modulus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_01_prg_giris/C01_Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01_prg_giris/C01_Hello_World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_01_prg_giris/C02_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_01_prg_giris/C02_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C01_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C01_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C02_Data_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C02_Data_Types.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C03_Non_Primitive_DT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C03_Non_Primitive_DT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C04_NamingConvention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C05_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C05_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C06_Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C06_Scanner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C07_Scanner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C07_Scanner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C08_Scanner4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C08_Scanner4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_02_variables_scanner/C09_Scanner5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_02_variables_scanner/C09_Scanner5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_03_data_casting_maths/C01_DataCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C01_DataCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_03_data_casting_maths/C02_Explicit_Narrowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C02_Explicit_Narrowing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_03_data_casting_maths/C03_DataCasting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C03_DataCasting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_03_data_casting_maths/C04_CharDataCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C04_CharDataCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_03_data_casting_maths/C05_WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_03_data_casting_maths/C05_WrapperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +47,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C05_WrapperClass">
+  <component name="RunManager" selected="Application.C06_Modulus">
     <configuration name="C01_DataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C01_DataCasting" />
-      <module name="team108_Fall_2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_03_data_casting_maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Explicit_Narrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C02_Explicit_Narrowing" />
       <module name="team108_Fall_2022" />
       <extension name="coverage">
         <pattern>
@@ -124,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_data_casting_maths.C06_Modulus" />
+      <module name="team108_Fall_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_03_data_casting_maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_Modulus" />
         <item itemvalue="Application.C05_WrapperClass" />
         <item itemvalue="Application.C04_CharDataCasting" />
-        <item itemvalue="Application.C03_DataCasting2" />
-        <item itemvalue="Application.C02_Explicit_Narrowing" />
         <item itemvalue="Application.C01_DataCasting" />
+        <item itemvalue="Application.C03_DataCasting2" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672498253059</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practice">
+      <created>1672737848790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672737848790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +152,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team108_Fall_2022$C05_WrapperClass.ic" NAME="C05_WrapperClass Coverage Results" MODIFIED="1672741319903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day_03_data_casting_maths.*</FILTER>
+    </SUITE>
   </component>
 </project>
